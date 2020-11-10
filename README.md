@@ -1,2 +1,2 @@
-# Burger Builder application
-React application with interactive ingredients combinations.
+# BurgerBuilder
+ReactJS application with interactive ingredient combinations
